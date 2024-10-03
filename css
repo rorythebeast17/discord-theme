@@ -1,0 +1,96 @@
+/* =========================
+   General Reset
+   ========================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =========================
+   Body Styles
+   ========================= */
+body {
+    background: linear-gradient(to right, #ff6f91, #ffcc00); /* Gradient background */
+    color: #e6e6fa; /* Default lavender text color */
+    font-family: "Roboto", "Lucida Console", "Lucida Sans Typewriter"; /* Font family */
+}
+
+/* =========================
+   Header Styles
+   ========================= */
+h1 {
+    font-size: 24px; /* Header 1 size */
+    font-weight: 700; /* Bold weight */
+    line-height: 26.4px; /* Line height */
+    color: #ffb3e6; /* Pastel pink for h1 */
+}
+
+h3 {
+    font-size: 14px; /* Header 3 size */
+    font-weight: 700; /* Bold weight */
+    line-height: 15.4px; /* Line height */
+    color: #b3d9ff; /* Pastel blue for h3 */
+}
+
+/* =========================
+   Paragraph Styles
+   ========================= */
+p {
+    font-size: 14px; /* Paragraph size */
+    font-weight: 400; /* Normal weight */
+    line-height: 20px; /* Line height */
+    color: #e6e6fa; /* Lavender color */
+}
+
+/* =========================
+   Blockquote Styles
+   ========================= */
+blockquote {
+    font-size: 21px; /* Blockquote size */
+    font-weight: 400; /* Normal weight */
+    line-height: 30px; /* Line height */
+    color: #e6e6fa; /* Lavender color */
+    border-left: 4px solid #e6e6fa; /* Lavender border */
+    padding-left: 10px; /* Padding */
+    margin: 10px 0; /* Margin */
+}
+
+/* =========================
+   Preformatted Text Styles
+   ========================= */
+pre {
+    font-size: 13px; /* Preformatted text size */
+    font-weight: 400; /* Normal weight */
+    line-height: 18.5714px; /* Line height */
+    background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent background */
+    color: #e6e6fa; /* Lavender color */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Padding */
+}
+
+/* =========================
+   Container Styles
+   ========================= */
+.container-3j1Yz7 {
+    background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent container */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Padding */
+}
+
+/* =========================
+   Footer and Button Styles
+   ========================= */
+.footer-1fnGEE {
+    background: rgba(255, 255, 255, 0.05); /* Semi-transparent footer */
+}
+
+.button-2HQo6F {
+    background-color: #ff6f91; /* Pink buttons */
+    color: white; /* White text on buttons */
+}
+
+.button-2HQo6F:hover {
+    background-color: #ff4d81; /* Darker pink on hover */
+}
+}
